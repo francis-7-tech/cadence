@@ -5,6 +5,9 @@ A colour and sound memory sequence game built with vanilla JavaScript, jQuery, H
 Watch the sequence, listen to the cadence, then repeat it back. Each round adds one more step — how far can you go before you slip up?
 
 
+## Live Demo
+Play Cadence - https://cadence-sage-rho.vercel.app/
+
 ## How to Play
 
 1. Press any key to start.
